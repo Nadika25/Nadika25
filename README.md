@@ -19,5 +19,22 @@
 | [Матчинг товаров](https://github.com/Nadika25/Portfolio/tree/master/Product_matching) | Разработать алгоритм, подбирающий для определённого товара набор из пяти похожих на него| python, pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, plotly, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, xgboost | - |
 
 # Навыки
-| --- | --- | --- |
-| Языки|Python, PostageSQL, Markdown |
+ <table>
+    <tr>
+     <td><b>Языки</b></td>
+        <td>Python, PostgreSQL, Markdown</td>
+    </tr>
+    <tr>
+     <td><b>Средства разработки</b></td>
+        <td>PyCharm, Jupyter Notebook</td>
+    </tr>
+    <tr>
+     <td><b>Библиотеки</b></td>
+        <td> Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Plotly, Statsmodels, Category_encoders, Imblearn, Eli5, Shap, Phik, Skforecast</td>
+    </tr>
+    <tr>
+     <td><b>Модели машинного обучения</b></td>
+        <td>DecisionTreeClassifier, DecisionTreeRegressor, RandomForestClassifier, RandomForestRegressor, LogisticRegression, LinearRegression, XGBClassifier, LGBMRegressor, CatBoostRegressor, SARIMAX, FAISS</td>
+    </tr> 
+    <tr>
+</table>
