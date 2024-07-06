@@ -38,3 +38,16 @@
     </tr> 
     <tr>
 </table>
+
+# МОЙ БЛОГ
+ <table>
+    <tr>
+     <td><b>Youtube</b></td>
+        <td>www.youtube.com/@alanovnavlog</td>
+    </tr>
+    <tr>
+     <td><b>Vkontakte</b></td>
+        <td>[PyCharm, Jupyter Notebook](https://vk.com/alanovnavlog)</td>
+    </tr>
+    <tr>
+</table>
