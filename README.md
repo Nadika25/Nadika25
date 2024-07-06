@@ -47,7 +47,7 @@
     </tr>
     <tr>
      <td><b>Vkontakte</b></td>
-        <td>[PyCharm, Jupyter Notebook](https://vk.com/alanovnavlog)</td>
+        <td>https://vk.com/alanovnavlog</td>
     </tr>
     </tr>
     <tr>
