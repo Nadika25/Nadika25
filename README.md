@@ -19,7 +19,7 @@
 | [Матчинг товаров](https://github.com/Nadika25/Portfolio/tree/master/Product_matching) | Разработать алгоритм, подбирающий для определённого товара набор из пяти похожих на него| python, pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, plotly, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, xgboost | - |
 
 # Навыки
- <table>
+ <table style="height: 200">
     <tr>
      <td><b>Языки</b></td>
         <td>Python, PostgreSQL, Markdown</td>
@@ -39,8 +39,8 @@
     <tr>
 </table>
 
-# МОЙ БЛОГ
- <table>
+# Мой блог
+ <table ight=100>
     <tr>
      <td><b>Youtube</b></td>
         <td>www.youtube.com/@alanovnavlog</td>
@@ -48,6 +48,7 @@
     <tr>
      <td><b>Vkontakte</b></td>
         <td>[PyCharm, Jupyter Notebook](https://vk.com/alanovnavlog)</td>
+    </tr>
     </tr>
     <tr>
 </table>
