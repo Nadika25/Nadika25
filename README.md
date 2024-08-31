@@ -18,6 +18,14 @@
 | [Музыкальные жанры](https://github.com/Nadika25/Portfolio/tree/master/Music_genre) | Разработать модель, которая классифицирует музыкальные произведения по жанрам| python, pandas, numpy, seaborn, matplotlib, sklearn, category_encoders, faiss | - |
 | [Матчинг товаров](https://github.com/Nadika25/Portfolio/tree/master/Product_matching) | Разработать алгоритм, подбирающий для определённого товара набор из пяти похожих на него| python, pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, plotly, GridSearchCV, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, xgboost | - |
 
+# Учебный опыт
+| Название | Задача | Навыки и инструменты|
+| --- | --- | --- |
+| [GoFast_scooters](https://github.com/Nadika25/YP_study_projects/tree/main/GoFast_scooters) | Сервис электросамокатов хочет увеличить количество пользователей с подпиской. Необходимо проанализировать данные и проверьте некоторые гипотезы, которые могут помочь бизнесу вырасти.| python, pandas, numpy, seaborn, matplotlib, pyplot, t-test| - |
+| [Image_search](https://github.com/Nadika25/YP_study_projects/tree/main/Image_search) | Разработка демонстрационной версии поиска изображений по запросу| python, pandas, numpy, matplotlib, seaborn, sklearn, torch, transformers, LinearRegression, tensorflow, keras, RandomForestClassifier, DummyRegressor, nlp | - |
+| [Sale_of_apartments](https://github.com/Nadika25/YP_study_projects/tree/main/Sale_of_apartments) | В нашем распоряжении данные сервиса Яндекс Недвижимость (архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет). Необходимо провести исследовательский анализ данных и установить параметры, влияющие на цену объектов.| python, pandas, numpy, matplotlib, seaborn, pyplot | - |
+| [Well_location](https://github.com/Nadika25/YP_study_projects/tree/main/Well_location) | Добывающая компания «ГлавРосГосНефть» хочет узнать, где бурить новую скважину. Определить регион с максимальной суммарной прибылью отобранных скважин.| python, pandas, numpy, matplotlib, seaborn, sklearn, GridSearchCV, LinearRegression, f1 | - |
+
 # Навыки
  <table style="height: 200">
     <tr>
