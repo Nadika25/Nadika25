@@ -35,7 +35,7 @@
     </tr>
     <tr>
      <td><b>Средства разработки</b></td>
-        <td>PyCharm, Jupyter Notebook</td>
+        <td>PyCharm, Jupyter Notebook, PIX PM, PIX BI</td>
     </tr>
     <tr>
      <td><b>Библиотеки</b></td>
