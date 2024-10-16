@@ -5,13 +5,13 @@
 | Специалист по Data Science расширенный |Апрель, 2024 | [Яндекс Практикум](https://practicum.yandex.ru/) | 
 | ["Поколение Python": курс для начинающих](https://stepik.org/cert/1589504) |Июль, 2022 | [Поколение Python на Stepik](https://stepik.org/org/pygen) | 
 | [Основы статистики](https://stepik.org/cert/1593700) |Август, 2022 | [Bioinformatics Institute на Stepik](https://stepik.org/org/bioinf) | 
-
+| [PIX триатлон]([https://stepik.org/cert/1593700](https://triathlon.pix.ru/)) |Сентябрь, 2024 | [PIX триатлон]([https://stepik.org/cert/1593700](https://triathlon.pix.ru/) |
 # Сейчас прохожу
 
 | Курс |  Год окончания | Школа | 
 | --- | --- | --- |
 | Математика для анализа данных |2024 | [Яндекс Практикум](https://practicum.yandex.ru/) | 
-| PIX триатлон |2024 | [PIX триатлон](https://triathlon.pix.ru/) | 
+| Симулятор DS |2024 | [KARPOV.COURSES](https://karpov.courses/) | 
 
 # Портфолио
 | Название | Задача | Навыки и инструменты|
