@@ -2,10 +2,10 @@
 
 | Курс |  Дата окончания | Школа | 
 | --- | --- | --- |
-| [PIX триатлон](https://triathlon.pix.ru/) |Сентябрь, 2024 | [PIX Robotics](https://pix.ru/) |
+| PIX триатлон |Сентябрь, 2024 | [PIX Robotics](https://pix.ru/) |
 | Специалист по Data Science расширенный |Апрель, 2024 | [Яндекс Практикум](https://practicum.yandex.ru/) | 
-| ["Поколение Python": курс для начинающих](https://stepik.org/cert/1589504) |Июль, 2022 | [Поколение Python на Stepik](https://stepik.org/org/pygen) | 
-| [Основы статистики](https://stepik.org/cert/1593700) |Август, 2022 | [Bioinformatics Institute на Stepik](https://stepik.org/org/bioinf) | 
+| "Поколение Python": курс для начинающих |Июль, 2022 | [Поколение Python на Stepik](https://stepik.org/org/pygen) | 
+| Основы статистики|Август, 2022 | [Bioinformatics Institute на Stepik](https://stepik.org/org/bioinf) | 
 
 # Сейчас прохожу
 
